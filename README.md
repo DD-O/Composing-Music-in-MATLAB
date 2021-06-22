@@ -5,7 +5,7 @@ A simple project demonstrating the use of audio samples and stereo functionality
 ## Authors
 
 * **Caden Kesey** - [cadenkesey](https://github.com/cadenkesey)
-* **Devin Otto**
+* **Devin Otto** - [DD-O](https://github.com/DD-O)
 * **Jordan Samuel**
 
 ## Acknowledgments
